@@ -1,3 +1,5 @@
+Le projet se trouve dans master.
+
 # tp1_exchangerate
 TP 1: Développement d’une API get-only Node-Express-TS de centralisation d’API utiles
 réalisé par Hyejeong
