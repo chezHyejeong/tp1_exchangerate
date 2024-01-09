@@ -8,6 +8,9 @@ objectifs:
   2. Développement de 3 endpoints: 1 JSON data, 1 agrégateur, 1 mixed
   3. Création d’une repository Github public et correctement documenté
 
+## Commencer
+Cloner d'abord le projet dans votre répertoire.
+
 ### Prérequis
 Node.js, npm, MongoDB
 
